@@ -3,7 +3,7 @@
 title: Megan M. Stumpf
 description: Ph.D. Candidate | CU-Anschutz Medical Campus | Immunology & Microbiology
 
-baseurl: / #name of GitHub repository
+baseurl: "/" #name of GitHub repository
 url: "https://meganstumpf.github.io" #custom url to be used instead of GitHub repository
 email: megan.stumpf@cuanschutz.edu
 
