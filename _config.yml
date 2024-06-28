@@ -1,7 +1,7 @@
-### your site title here
+ ### your site title here
 
 title: Megan M. Stumpf
-description: Ph.D. Candidate | CU-Anschutz Medical Campus | Immunology & Microbiology
+description: Ph.D. Candidate | CU-Anschutz | Immunology & Microbiology
 
 baseurl: "/" #name of GitHub repository
 url: "https://meganstumpf.github.io" #custom url to be used instead of GitHub repository
@@ -13,12 +13,12 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-twitter: "#"
-linkedin: "#"
-stackoverflow: "#"
-github: "#"
-researchgate: "#"
-orcid: "#"
+twitter: "megmstumpf"
+linkedin: "megan-m-stumpf-1bb5508a"
+stackoverflow: "megan-stumpf"
+github: "meganstumpf"
+researchgate: "Megan-Stumpf"
+orcid: "0000-0001-8085-3094"
 
 
 
