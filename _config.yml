@@ -1,11 +1,11 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Megan M. Stumpf
+description: Ph.D. Candidate | CU-Anschutz Medical Campus | Immunology & Microbiology
 
 baseurl: /gradfolio #name of GitHub repository
-url: "" #custom url to be used instead of GitHub repository
-email: #
+url: "https://meganstumpf.github.io" #custom url to be used instead of GitHub repository
+email: megan.stumpf@cuanschutz.edu
 
 # Pagination
 paginate: 4
@@ -19,9 +19,7 @@ stackoverflow: "#"
 github: "#"
 researchgate: "#"
 orcid: "#"
-quora: "#"
-instagram: "#"
-facebook: "#"
+
 
 
 # Markdown
