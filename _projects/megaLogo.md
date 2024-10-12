@@ -5,9 +5,6 @@ description: Software for Large Logoplots
 order: 1
 ---
 
-megaLogo
-============
-
 <a href="https://github.com/meganstumpf/megalogo"><img src="https://i.postimg.cc/50yrsgpH/megalogo-smaller.jpg" width=200px></a>
 
 This project was aimed to design code to create large logoplots for deep mutational scanning data with customizability. These plots visualize the absence/presence of amino acid mutations at all mutated codon positions above specified quality and count filters. Made in collaboration with Tonya Brunetti.
@@ -18,7 +15,7 @@ To model its use, I generated a test data set that randomly assigned both the nu
 <div align = center>
 <img src = "https://github.com/meganstumpf/megalogo/blob/master/outputs/sample.png?raw=true" width = 400px>
 </div>
-<br><br>
+
 
 Want to try the software out yourself? Head on over to the GitHub repository: <br>
 <a href="https://github.com/meganstumpf/megalogo">https://github.com/meganstumpf/megalogo</a> and follow the instructions!
