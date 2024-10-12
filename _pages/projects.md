@@ -5,13 +5,12 @@ permalink: /projects/
 published: true
 ---
 
-
 <div class="ProjectContainer">
 
 	<div class="gallery">
 
-
-  {% for project in site.projects %}
+  {% assign sorted_projects = site.projects | sort: 'order' %}
+  {% for project in sorted_projects %}
 
   {% if project.redirect %}
   <div class="projectTile">
