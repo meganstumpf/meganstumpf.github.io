@@ -45,13 +45,6 @@ collections:
   projects:
     output: true
     permalink: /projects/:name/
-    order:
-      - megaLogo.md
-      - future_project1.md
-      - future_project2.md
-      - future_project3.md
-      - future_project4.md
-      - future_project5.md
 
 sass:
   sass_dir: /assets/css/_sass
