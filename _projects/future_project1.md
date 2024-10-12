@@ -2,6 +2,7 @@
 layout: post
 title: Future Project 1
 description: Stay Tuned!
+order: 2
 ---
 
 Example modified from [here](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html){:target="_blank"}.
