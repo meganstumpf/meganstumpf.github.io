@@ -46,12 +46,12 @@ collections:
     output: true
     permalink: /projects/:name/
     order:
-      - shortProject.md
-      - longerProjectTitle.md
-      - redirect.md
-      - project4.md
-      - project5.md
-      - project6.md
+      - megaLogo.md
+      - future_project1.md
+      - future_project2.md
+      - future_project3.md
+      - future_project4.md
+      - future_project5.md
 
 sass:
   sass_dir: /assets/css/_sass
