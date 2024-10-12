@@ -12,7 +12,7 @@ This project was aimed to design code to create large logoplots for deep mutatio
 
 To model its use, I generated a test data set that randomly assigned both the number (`NDET`) and identity of amino acids (`AA`) to individual codon positions (`POSITION`) and calculated equal ratios for each residue. This software relies on this ratio (`MERGE_FRAC`) to generate the height of each amino acid. This means, the height of each amino acid inversely corresponds to the detected diversity at each site, i.e., larger letters = less mutational tolerance. This metric was created to help quickly identify sites with differences in mutational tolerance in a more readable format. A sample logoplot using the test data set is shown below:
 
-**Example Logoplot:**
+<b>Example Logoplot:</b>
 <div align = center>
 <img src = "https://github.com/meganstumpf/megalogo/blob/master/outputs/sample.png?raw=true" width = 400px>
 </div>
