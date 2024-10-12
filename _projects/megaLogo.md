@@ -19,4 +19,5 @@ To model its use, I generated a test data set that randomly assigned both the nu
 </div>
 <br><br>
 
-Want to try the software out yourself? Head on over to the GitHub repository: (https://github.com/meganstumpf/megalogo)[https://github.com/meganstumpf/megalogo] and follow the instructions!
+Want to try the software out yourself? Head on over to the GitHub repository: <br>
+<a href="https://github.com/meganstumpf/megalogo">https://github.com/meganstumpf/megalogo</a> and follow the instructions!
