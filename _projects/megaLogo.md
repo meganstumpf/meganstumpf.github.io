@@ -1,7 +1,8 @@
 ---
 layout: post
 title: megaLogo
-description: Software designed to create large logoplots for deep mutational scanning data with customizability.
+description: Software for Large Logoplots
+order: 1
 ---
 
 megaLogo
