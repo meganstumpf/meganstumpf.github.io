@@ -16,6 +16,7 @@ To model its use, I generated a test data set that randomly assigned both the nu
 
 <h4>Example Logoplot:</h4>
 
+
 <div align = center>
 <img src = "https://github.com/meganstumpf/megalogo/blob/master/outputs/sample.png?raw=true" width = 400px>
 </div>
