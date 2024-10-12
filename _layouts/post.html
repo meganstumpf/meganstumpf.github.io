@@ -4,6 +4,12 @@ layout: default
 <h1 class="post-headline">{{page.title}}</h1>
 <p class="meta"><small>{{page.date | date: '%B %d, %Y'}}</small></p>
 
+{% if page.profile %}
+    {% if page.profile.image %}
+      <img class="profile {{ page.profile.align }}"  width="33.33%" src="{{ page.profile.image | prepend: '/assets/images/' | relative_url }}">
+    {% endif %}
+{% endif %}
+
 {{content}}
 
 <!-- Comments only for posts -->
