@@ -6,10 +6,11 @@ published: true
 ---
 <div align="center">
   
- ![GitHub last commit](https://img.shields.io/github/last-commit/meganstumpf/meganstumpf.github.io?path=_pages%2FCV.md&style=plastic&label=Last%20Updated&labelColor=%235F8575%09&color=%23353935%09)  
+ ![GitHub last commit](https://img.shields.io/github/last-commit/meganstumpf/meganstumpf.github.io?path=_pages%2FCV.md&style=plastic&label=Last%20Updated&labelColor=%235F8575%09&color=%23353935%09)
  
   <h1>Curriculum Vitae</h1>
-  NOTE: Best viewed on a desktop browser. Alternatively, view my full CV <a href="https://meganstumpf.github.io/assets/CV.pdf" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #5F8575; color: white; text-decoration: none; border-radius: 5px;">here</a>.<br><br>
+  NOTE: Best viewed on a desktop browser. <br>
+  <a href="https://meganstumpf.github.io/assets/CV.pdf" target="_blank" style="display: inline-block; padding: 10px 10px; background-color: #5F8575; color: white; text-decoration: bold; border-radius: 2px;">Mobile Friendly CV</a><<br>
   <div style="max-width: 600px; width: 100%; overflow: auto;">
     <iframe src="https://meganstumpf.github.io/assets/CV.pdf" style="width: 100%; height: 80vh; border: none;"></iframe>
   </div>
