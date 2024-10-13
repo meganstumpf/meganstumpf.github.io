@@ -1,6 +1,6 @@
 ---
 title: Curriculum Vitae
-layout: Clean
+layout: default
 permalink: /CV/
 published: true
 ---
