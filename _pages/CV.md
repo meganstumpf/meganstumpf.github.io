@@ -4,8 +4,7 @@ layout: default
 permalink: /CV/
 published: true
 ---
-<br>
-<br>
+
 <div align = "center">
   <h1>Curriculum Vitae</h1>
   <br>
