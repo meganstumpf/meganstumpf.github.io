@@ -12,7 +12,7 @@ published: true
    <p style="font-size: 16px;">NOTE: Best viewed on a desktop browser.</p>
   <a href="https://meganstumpf.github.io/assets/cv.pdf" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #5F8575; color: white; text-decoration: bold; border-radius: 2px;">Mobile Friendly CV</a><br><br>
   <div style="max-width: 600px; width: 100%; overflow: auto;">
-    <iframe src="https://meganstumpf.github.io/assets/CV.pdf" style="width: 100%; height: 80vh; border: none;"></iframe>
+    <iframe src="https://meganstumpf.github.io/assets/cv.pdf" style="width: 100%; height: 80vh; border: none;"></iframe>
   </div>
 </div>
 
