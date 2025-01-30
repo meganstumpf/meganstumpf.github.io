@@ -3,7 +3,7 @@ layout: about
 permalink: /
 profile:
   align: right
-  image: megan.png
+  image: megan_updated.png
 published: true
 ---
 
